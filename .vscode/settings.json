@@ -1,0 +1,43 @@
+{
+  // Window
+  "window.titleBarStyle": "custom",
+  "window.title": "${rootName}",
+  "window.menuBarVisibility": "hidden",
+  "window.commandCenter": false,
+  
+  // Workbench
+  "workbench.activityBar.location": "hidden",
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.labelFormat": "short", 
+
+  // Editor
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "interval",
+  "editor.renderWhitespace": "none",
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.cursorStyle": "block",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.find.addExtraSpaceOnTop": false,
+  "editor.fontSize": 14,
+  "editor.rulers": [80, 120],
+  "editor.renderLineHighlight": "gutter",
+  "editor.semanticHighlighting.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+
+  // Breadcrumbs
+  "breadcrumbs.enabled": false,
+
+  // Explorer
+  "explorer.compactFolders": false,
+
+  // Files
+  "files.autoSave": "afterDelay",
+
+  // Extensions
+  "workbench.iconTheme": "icons",
+  "workbench.colorTheme": "GitHub Dark"
+}
